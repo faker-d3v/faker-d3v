@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Faker
-- ⌨️ I type :)
+- ⌨️ I can type!
 
 <!---
 faker-d3v/faker-d3v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
